@@ -1,0 +1,23 @@
+{
+  "name": "blog-ht",
+  "version": "1.0.0",
+  "description": "Mi blog",
+  "main": "Perro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/humbertoatn/HT-blog.git"
+  },
+  "author": "Humberto Torrico",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/humbertoatn/HT-blog/issues"
+  },
+  "homepage": "https://github.com/humbertoatn/HT-blog#readme",
+  "dependencies": {
+    "audio-play": "^2.1.0"
+  }
+}
